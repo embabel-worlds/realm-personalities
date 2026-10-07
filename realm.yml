@@ -3,6 +3,7 @@ description: "Additional AI assistant personalities — Solaris, Spock, TARS, an
 version: 0.1.0
 author: Rod Johnson
 url: https://github.com/johnsonr/realm-personalities
+category: platform
 tags:
   - personalities
   - customization
